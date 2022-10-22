@@ -1,7 +1,9 @@
 # FDV_3
-### :new_moon: Practice 3
 
 Este repositorio recoge los ejercicios realizados para la tercera práctica de FDV (apartados 1,2 y 8)
+
+### :new_moon: Practice 3
+
 
 Primero crearemos un objeto en la escena, en este caso, una esfera. Una vez creada la esfera haremos un script que mueva el objeto hacia un punto fijo marcado como **objetivo**. Éste debe ser una variable de tipo _public_ para manipular los valores en el inspector.
 
