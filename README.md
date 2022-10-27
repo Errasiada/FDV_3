@@ -38,7 +38,11 @@ Primero crearemos un objeto en la escena, en este caso, una esfera. Una vez crea
 
 ![6gif](https://user-images.githubusercontent.com/114673717/197338326-545ffcba-935c-4df2-a2c7-2f60b0f56f82.gif)
 
-- 7 - (PENDIENTE)
+- 7 - Añadiremos un script para que la esfera persiga al jugador.
+
+![Gif7](https://user-images.githubusercontent.com/114673717/198229043-49f72f1b-634b-40b9-b1c3-b88a053d5c0d.gif)
+
+
 - 8 - En este caso crearemos una escena con tres objetos: dos esferas y un cubo. Primero ningún objeto tendrá físicas, luego sólo las esferas tendran fisicas y el cubo no. Finalmente todos los elementos tienen físicas, el cubo comienza por encima de las esferas y observamos esto si le damos al play.
 
 ![8cgif](https://user-images.githubusercontent.com/114673717/197338608-4f89ac88-c585-478f-9005-da627b700912.gif)
@@ -75,10 +79,9 @@ Si pulsamos la tecla espacio, se incrementará gradualmente la velocidad del obj
 
 ![9cgif](https://user-images.githubusercontent.com/114673717/197339091-750ab310-43ff-4006-973d-751463eb6c25.gif)
 
--  10 - (PENDIENTE)
+-  10 - Finalmente añadiremos dos objetivos adicionales, y con un script haremos que cambien de color a rojo con la variable _OnTriggerEnter_ 
 
-
-
+![Gif10](https://user-images.githubusercontent.com/114673717/198229371-6023beba-1104-43a2-920e-be848a98b272.gif)
 
 
 
